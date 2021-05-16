@@ -1,3 +1,5 @@
+### Fork change: Progress of completion [here](https://github.com/GarvinH/ml-python-solutions)
+
 # [Coursera Machine Learning MOOC by Andrew Ng](https://www.coursera.org/learn/machine-learning) 
 # Python Programming Assignments
 
